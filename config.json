@@ -1,0 +1,19 @@
+{
+    "location": {
+        "auto_detect": true,
+        "latitude": null,
+        "longitude": null
+    },
+    "satellite": {
+        "default_group": "stations",
+        "last_selected": null
+    },
+    "display": {
+        "refresh_interval_seconds": 10,
+        "coordinate_format": "decimal"
+    },
+    "api": {
+        "location_service": "ip-api.com/json",
+        "location_api_key": null
+    }
+}
